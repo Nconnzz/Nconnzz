@@ -16,15 +16,18 @@
 
 ### Sobre este perfil
 
-Diseño y opero infraestructura de grado producción en mi propio hardware.
+Opero infraestructura crítica de grado producción en on-premise.
+Experiencia en redes empresariales, virtualización, observabilidad y ciberseguridad.
 Cada repositorio documenta un sistema real: replicación, alta disponibilidad,
-observabilidad y CI/CD, con foco en eficiencia de recursos y reproducibilidad.
+disaster recovery y compliance.
 
-Áreas de trabajo:
+**Actualmente:**
 
-- **Alta disponibilidad** — replicación, failover automático y backups verificables.
-- **Observabilidad** — métricas, dashboards como código y alertas accionables.
-- **Eficiencia operativa** — stacks de nivel empresarial corriendo en hardware modesto.
+- 🛣️ Operación 24/7 de infraestructura de peajes — **ISA Vías**
+- 🏛️ Homelab production-grade — **Proyecto Olimpo**
+- 🔍 Plataforma de auditoría inteligente — **NetAudit**
+
+<sub>3+ años en infraestructura crítica.</sub>
 
 ---
 
