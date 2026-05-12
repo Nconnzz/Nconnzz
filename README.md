@@ -151,29 +151,6 @@ de disaster recovery sobre los stacks existentes.
 
 ---
 
-### Activity Overview
-
-**Gráfico de contribuciones**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nconnzz&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribuciones%20en%20el%20tiempo&bg_color=0d1117&color=4b91f1&line=4b91f1&point=ffffff"/>
-</p>
-
-**Calendario de actividad del año**
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2c5364/Nconnzz" alt="Calendario anual de contribuciones"/>
-</p>
-
-**Estadísticas de commits**
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nconnzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nconnzz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</p>
-
----
-
 ### Contacto
 
 Disponible para colaboraciones, consultoría y proyectos de infraestructura.
