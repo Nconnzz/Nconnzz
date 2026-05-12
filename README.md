@@ -175,7 +175,7 @@ de disaster recovery sobre los stacks existentes.
 ### Logros
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nconnzz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nconnzz&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S"/>
 </p>
 
 ---
