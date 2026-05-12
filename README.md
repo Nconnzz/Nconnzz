@@ -145,18 +145,6 @@ de disaster recovery sobre los stacks existentes.
 
 ---
 
-### Estadísticas
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/main/metrics.svg" alt="GitHub metrics"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/main/metrics-languages.svg" alt="Lenguajes"/>
-</p>
-
----
-
 ### Actividad
 
 <picture>
