@@ -30,14 +30,72 @@ observabilidad y CI/CD, con foco en eficiencia de recursos y reproducibilidad.
 
 ### Stack
 
+**Sistema operativo y base**
+
 <p>
+  <img src="https://img.shields.io/badge/Ubuntu%2024.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LVM2-444444?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ext4-555555?style=for-the-badge"/>
+</p>
+
+**Contenedores y orquestación**
+
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+**Bases de datos**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Percona%20MySQL-2C2C2C?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**Alta disponibilidad y backups**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB%20Replica%20Set-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis%20Sentinel-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XtraBackup-F5455C?style=for-the-badge&logo=percona&logoColor=white"/>
+</p>
+
+**Observabilidad y monitoreo**
+
+<p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node%20Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cAdvisor-326CE5?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PMM-F5455C?style=for-the-badge&logo=percona&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+</p>
+
+**CI/CD y automatización**
+
+<p>
+  <img src="https://img.shields.io/badge/GitLab%20CE-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20Runner-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cron-444444?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+**Lenguajes y scripting**
+
+<p>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+</p>
+
+**Comunicación y alertas**
+
+<p>
+  <img src="https://img.shields.io/badge/Rocket.Chat-F5455C?style=for-the-badge&logo=rocketdotchat&logoColor=white"/>
 </p>
 
 ---
