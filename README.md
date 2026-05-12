@@ -157,6 +157,24 @@ de disaster recovery sobre los stacks existentes.
 
 ---
 
+### Actividad
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man comiendo contribuciones" src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph.svg"/>
+</picture>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nconnzz&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20commits"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nconnzz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</p>
+
+---
+
 ### Contacto
 
 Disponible para colaboraciones, consultoría y proyectos de infraestructura.
