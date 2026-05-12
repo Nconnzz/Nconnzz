@@ -159,6 +159,10 @@ de disaster recovery sobre los stacks existentes.
 
 ### Actividad
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/main/metrics-isocalendar.svg" alt="Calendario isométrico de contribuciones del año"/>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph.svg"/>
