@@ -13,13 +13,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animations
+        uses: Platane/snk@v3
         with:
           github_user_name: Nconnzz
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

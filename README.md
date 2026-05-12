@@ -147,11 +147,9 @@ de disaster recovery sobre los stacks existentes.
 
 ### Actividad
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph.svg"/>
-  <img alt="Pac-Man comiendo contribuciones" src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph.svg"/>
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/output/snake.gif" alt="Snake animado comiendo contribuciones"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nconnzz&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20commits"/>
