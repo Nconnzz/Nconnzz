@@ -19,17 +19,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Nconnzz
           template: classic
-          base: header, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Santiago
           config_padding: 0, 8 + 11%
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics-isocalendar.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: Nconnzz
-          base: ""
-          config_timezone: America/Santiago
+          plugin_activity: yes
+          plugin_activity_days: 365
+          plugin_activity_limit: 10
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
