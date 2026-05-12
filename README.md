@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nconnzz&fontColor=ffffff&fontSize=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nicolas%20Nu%C3%B1ez&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -95,14 +95,20 @@ de disaster recovery sobre los stacks existentes.
 
 ### Actividad
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/output/snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/output/snake.svg"/>
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nconnzz&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20commits"/>
+</p>
+
+---
+
+### Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nconnzz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
 </p>
 
 ---
