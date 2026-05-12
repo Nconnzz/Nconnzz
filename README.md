@@ -145,6 +145,14 @@ de disaster recovery sobre los stacks existentes.
 
 ---
 
+### Contribuciones
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2c5364/Nconnzz" alt="Calendario de contribuciones de GitHub"/>
+</p>
+
+---
+
 ### Actividad
 
 <picture>
