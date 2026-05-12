@@ -145,18 +145,16 @@ de disaster recovery sobre los stacks existentes.
 
 ---
 
-### Actividad
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer at work" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer at work" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nconnzz&theme=tokyo-night&hide_border=true&area=true&custom_title=Actividad%20de%20commits"/>
-</p>
+---
+
+### Logros
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nconnzz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nconnzz&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S"/>
 </p>
 
 ---
