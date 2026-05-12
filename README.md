@@ -157,9 +157,9 @@ de disaster recovery sobre los stacks existentes.
 ### Actividad
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman.svg"/>
-  <img alt="Pac-Man comiendo contribuciones" src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man comiendo contribuciones" src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/pacman/pacman-contribution-graph.svg"/>
 </picture>
 
 <p align="center">
