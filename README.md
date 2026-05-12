@@ -148,7 +148,7 @@ de disaster recovery sobre los stacks existentes.
 ### Actividad
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nconnzz/Nconnzz/output/snake.gif" alt="Snake animado comiendo contribuciones"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Developer at work" width="500"/>
 </p>
 
 <p align="center">
